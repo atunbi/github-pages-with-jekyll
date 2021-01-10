@@ -1,3 +1,8 @@
+---
+title: "First Post"
+date: 2021-01-10
+---
+
 First post on Github pages with jekyll
 
 orem ipsum dolor sit amet, consectetur adipiscing elit. 
